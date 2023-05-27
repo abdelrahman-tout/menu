@@ -16,3 +16,9 @@
 - Fish Fingers
 
 
+## McDonald's
+
+- Beef Burgers
+- Chicken Burgers
+- Fries
+- Big MAC
